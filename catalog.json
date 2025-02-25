@@ -1,0 +1,3320 @@
+[
+    {
+        "provider": "OpenAI",
+        "model": "ada",
+        "cost_input": "0.40000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-ada-001",
+        "cost_input": "0.40000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "babbage",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "curie",
+        "cost_input": "2.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-curie-001",
+        "cost_input": "2.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "davinci",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-davinci-001",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-davinci-002",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-davinci-003",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo-0301",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-35-turbo",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo-1106",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo-instruct",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo-instruct-0914",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-0314",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-0613",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-32k",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-32k-0314",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-32k-0613",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-0125-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-1106-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-1106-vision-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4o",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4o-2024-05-13",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4o-mini",
+        "cost_input": "0.15000000",
+        "cost_output": "0.60000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4o-mini-2024-07-18",
+        "cost_input": "0.15000000",
+        "cost_output": "0.60000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo-0613",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-35-turbo-16k",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo-16k-0613",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-3.5-turbo-0125",
+        "cost_input": "0.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-turbo",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-turbo-2024-04-09",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-turbo-0125-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-embedding-ada-002",
+        "cost_input": "0.10000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-embedding-ada",
+        "cost_input": "0.10000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-embedding-ada-002-v2",
+        "cost_input": "0.10000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-embedding-3-small",
+        "cost_input": "0.02000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "text-embedding-3-large",
+        "cost_input": "0.13000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4-vision-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-35-turbo-16k-0613",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4o-2024-08-06",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "gpt-4o-2024-11-20",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o1-preview",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o1-preview-2024-09-12",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o1-mini",
+        "cost_input": "3.00000000",
+        "cost_output": "12.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o1-mini-2024-09-12",
+        "cost_input": "3.00000000",
+        "cost_output": "12.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o1-2024-12-17",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o1",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o3-mini",
+        "cost_input": "1.10000000",
+        "cost_output": "4.40000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "o3-mini-2025-01-31",
+        "cost_input": "1.10000000",
+        "cost_output": "4.40000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "ft:gpt-3.5-turbo-",
+        "cost_input": "3.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "ft:gpt-4o-mini-2024-07-18:",
+        "cost_input": "0.30000000",
+        "cost_output": "1.20000000"
+    },
+    {
+        "provider": "OpenAI",
+        "model": "ft:gpt-4o-2024-08-06:",
+        "cost_input": "3.75000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-instant-1",
+        "cost_input": "1.63000000",
+        "cost_output": "55.10000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-v1",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-2",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-instant-1.2",
+        "cost_input": "1.63000000",
+        "cost_output": "5.51000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-2.0",
+        "cost_input": "11.02000000",
+        "cost_output": "32.68000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-3-opus-20240229",
+        "cost_input": "15.00000000",
+        "cost_output": "75.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-3-sonnet-20240229",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-3-5-sonnet-20240620",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-3-5-sonnet-20241022",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-3-7-sonnet-20250219",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-3-haiku-20240307",
+        "cost_input": "0.25000000",
+        "cost_output": "1.25000000"
+    },
+    {
+        "provider": "Anthropic",
+        "model": "claude-3-5-haiku-20241022",
+        "cost_input": "0.80000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-turbo-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-45-turbo",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt4-turbo-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-preview-1106",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-35-turbo-1106",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt35",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-35-turbo-0613",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-35-16k",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-vision",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "ada",
+        "cost_input": "0.40000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-ada-001",
+        "cost_input": "0.40000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "babbage",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "curie",
+        "cost_input": "2.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-curie-001",
+        "cost_input": "2.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "davinci",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-davinci-001",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-davinci-002",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-davinci-003",
+        "cost_input": "20.00000000",
+        "cost_output": "20.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo-0301",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-35-turbo",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo-1106",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo-instruct",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo-instruct-0914",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-0314",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-0613",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-32k",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-32k-0314",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-32k-0613",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-0125-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-1106-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-1106-vision-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4o",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4o-2024-05-13",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4o-mini",
+        "cost_input": "0.15000000",
+        "cost_output": "0.60000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4o-mini-2024-07-18",
+        "cost_input": "0.15000000",
+        "cost_output": "0.60000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo-0613",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-35-turbo-16k",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo-16k-0613",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-3.5-turbo-0125",
+        "cost_input": "0.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-turbo",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-turbo-2024-04-09",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-turbo-0125-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-embedding-ada-002",
+        "cost_input": "0.10000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-embedding-ada",
+        "cost_input": "0.10000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-embedding-ada-002-v2",
+        "cost_input": "0.10000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-embedding-3-small",
+        "cost_input": "0.02000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "text-embedding-3-large",
+        "cost_input": "0.13000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4-vision-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-35-turbo-16k-0613",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4o-2024-08-06",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "gpt-4o-2024-11-20",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o1-preview",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o1-preview-2024-09-12",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o1-mini",
+        "cost_input": "3.00000000",
+        "cost_output": "12.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o1-mini-2024-09-12",
+        "cost_input": "3.00000000",
+        "cost_output": "12.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o1-2024-12-17",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o1",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o3-mini",
+        "cost_input": "1.10000000",
+        "cost_output": "4.40000000"
+    },
+    {
+        "provider": "Azure",
+        "model": "o3-mini-2025-01-31",
+        "cost_input": "1.10000000",
+        "cost_output": "4.40000000"
+    },
+    {
+        "provider": "NEBIUS",
+        "model": "black-forest-labs/flux-schnell",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "NEBIUS",
+        "model": "black-forest-labs/flux-dev",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "NEBIUS",
+        "model": "stability-ai/sdxl",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "X",
+        "model": "grok-beta",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "X",
+        "model": "grok-vision-beta",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "X",
+        "model": "grok-2-1212",
+        "cost_input": "2.00000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "X",
+        "model": "grok-2-vision-1212",
+        "cost_input": "2.00000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "allenai/OLMo-7B-Instruct",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "allenai/OLMo-7B-Twin-2T",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "allenai/OLMo-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Austism/chronos-hermes-13b",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "deepseek-ai/deepseek-coder-33b-instruct",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "garage-bAInd/Platypus2-70B-instruct",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "google/gemma-2b-it",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "google/gemma-7b-it",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Gryphe/MythoMax-L2-13b",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "lmsys/vicuna-13b-v1.5",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "lmsys/vicuna-7b-v1.5",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mistral-7B-Instruct-v0.1",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mistral-7B-Instruct-v0.2",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "NousResearch/Nous-Capybara-7B-V1p9",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-SFT",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "NousResearch/Nous-Hermes-2-Yi-34B",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "openchat/openchat-3.5-1210",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Open-Orca/Mistral-7B-OpenOrca",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-0.5B-Chat",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-1.8B-Chat",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-4B-Chat",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-7B-Chat",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-14B-Chat",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "snorkelai/Snorkel-Mistral-PairRM-DPO",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/alpaca-7b",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "teknium/OpenHermes-2-Mistral-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "teknium/OpenHermes-2p5-Mistral-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-Chat-3B-v1",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-7B-Chat",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/StripedHyena-Nous-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Undi95/ReMM-SLERP-L2-13B",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Undi95/Toppy-M-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "WizardLM/WizardLM-13B-V1.2",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "upstage/SOLAR-10.7B-Instruct-v1.0",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+        "cost_input": "0.18000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+        "cost_input": "0.88000000",
+        "cost_output": "0.88000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
+        "cost_input": "3.50000000",
+        "cost_output": "3.50000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-8B-Instruct-Turbo",
+        "cost_input": "0.18000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-70B-Instruct-Turbo",
+        "cost_input": "0.88000000",
+        "cost_output": "0.88000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-8B-Instruct-Lite",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-70B-Instruct-Lite",
+        "cost_input": "0.54000000",
+        "cost_output": "0.54000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "microsoft/WizardLM-2-8x22B",
+        "cost_input": "1.20000000",
+        "cost_output": "1.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mixtral-8x22B-Instruct-v0.1",
+        "cost_input": "2.40000000",
+        "cost_output": "2.40000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "codellama/CodeLlama-13b-Instruct-hf",
+        "cost_input": "0.22500000",
+        "cost_output": "0.22500000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "codellama/CodeLlama-34b-Instruct-hf",
+        "cost_input": "0.77600000",
+        "cost_output": "0.77600000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "codellama/CodeLlama-70b-Instruct-hf",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "codellama/CodeLlama-7b-Instruct-hf",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Llama-2-70b-chat-hf",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Llama-2-13b-chat-hf",
+        "cost_input": "0.22500000",
+        "cost_output": "0.22500000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Llama-2-7b-chat-hf",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Llama-3-70b-chat-hf",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Llama-3-8b-chat-hf",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "NousResearch/Nous-Hermes-llama-2-7b",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "NousResearch/Nous-Hermes-Llama2-13b",
+        "cost_input": "0.22500000",
+        "cost_output": "0.22500000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/Llama-2-7B-32K-Instruct",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+        "cost_input": "0.88000000",
+        "cost_output": "0.88000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3.3-70B-Instruct-Turbo",
+        "cost_input": "0.88000000",
+        "cost_output": "0.88000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "cost_input": "0.88000000",
+        "cost_output": "0.88000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
+        "cost_input": "0.18000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo",
+        "cost_input": "3.50000000",
+        "cost_output": "3.50000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-70B-Instruct-Turbo",
+        "cost_input": "0.88000000",
+        "cost_output": "0.88000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-8B-Instruct-Turbo",
+        "cost_input": "0.18000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-70B-Instruct-Lite",
+        "cost_input": "0.54000000",
+        "cost_output": "0.54000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "meta-llama/Meta-Llama-3-8B-Instruct-Lite",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "zero-one-ai/Yi-34B",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "zero-one-ai/Yi-6B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "google/gemma-2b",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "google/gemma-7b",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "microsoft/phi-2",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Nexusflow/NexusRaven-V2-13B",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-0.5B",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-1.8B",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-4B",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-14B",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-72B",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/GPT-JT-Moderation-6B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-Base-3B-v1",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-7B-Base",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-Instruct-3B-v1",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-7B-Instruct",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/StripedHyena-Hessian-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mistral-7B-v0.1",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mixtral-8x7B-v0.1",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "zero-one-ai/Yi-34B",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "zero-one-ai/Yi-6B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "google/gemma-2b",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "google/gemma-7b",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "microsoft/phi-2",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Nexusflow/NexusRaven-V2-13B",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-0.5B",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-1.8B",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-4B",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-14B",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "Qwen/Qwen1.5-72B",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/GPT-JT-Moderation-6B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-Base-3B-v1",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-7B-Base",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-Instruct-3B-v1",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/RedPajama-INCITE-7B-Instruct",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "togethercomputer/StripedHyena-Hessian-7B",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mistral-7B-v0.1",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Together AI",
+        "model": "mistralai/Mixtral-8x7B-v0.1",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/mixtral-8x7b-instruct",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/mixtral-8x22b-instruct",
+        "cost_input": "1.20000000",
+        "cost_output": "1.20000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/yi-large",
+        "cost_input": "3.00000000",
+        "cost_output": "3.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/sd3",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/sd3-medium",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/stable-diffusion-xl-1024-v1-0",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/playground-v2-1024px-aesthetic",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/playground-v2-5-1024px-aesthetic",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/SSD-1B",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/japanese-stable-diffusion-xl",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/sd3-turbo",
+        "cost_input": "130.00000000",
+        "cost_output": "130.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/sd3-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/sd3-medium-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/stable-diffusion-xl-1024-v1-0-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/playground-v2-1024px-aesthetic-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/playground-v2-5-1024px-aesthetic-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/SSD-1B-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/japanese-stable-diffusion-xl-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/sd3-turbo-ControlNet",
+        "cost_input": "200.00000000",
+        "cost_output": "200.00000000"
+    },
+    {
+        "provider": "Fireworks",
+        "model": "accounts/fireworks/models/llama-v3p1-405b-instruct",
+        "cost_input": "3.00000000",
+        "cost_output": "3.00000000"
+    },
+    {
+        "provider": "PERPLEXITY",
+        "model": "sonar-reasoning",
+        "cost_input": "10.00000000",
+        "cost_output": "50.00000000"
+    },
+    {
+        "provider": "PERPLEXITY",
+        "model": "sonar",
+        "cost_input": "10.00000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "PERPLEXITY",
+        "model": "sonar-pro",
+        "cost_input": "30.00000000",
+        "cost_output": "150.00000000"
+    },
+    {
+        "provider": "Google",
+        "model": "gemini-pro",
+        "cost_input": "0.12500000",
+        "cost_output": "0.37500000"
+    },
+    {
+        "provider": "Google",
+        "model": "gemini-1.0-pro-vision-001",
+        "cost_input": "0.12500000",
+        "cost_output": "0.37500000"
+    },
+    {
+        "provider": "Google",
+        "model": "gemini-1.0-pro",
+        "cost_input": "0.12500000",
+        "cost_output": "0.37500000"
+    },
+    {
+        "provider": "Google",
+        "model": "gemini-1.5-flash",
+        "cost_input": "0.35000000",
+        "cost_output": "1.05000000"
+    },
+    {
+        "provider": "Google",
+        "model": "gemini-flash-1.5-8b",
+        "cost_input": "0.03750000",
+        "cost_output": "0.15000000"
+    },
+    {
+        "provider": "Google",
+        "model": "gemini-1.5-pro",
+        "cost_input": "3.50000000",
+        "cost_output": "10.50000000"
+    },
+    {
+        "provider": "Google",
+        "model": "gemini-2.0-flash",
+        "cost_input": "0.10000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "Google",
+        "model": "claude-3-5-sonnet-v2@20241022",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-2.0-flash-thinking-exp:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "deepseek/deepseek-r1",
+        "cost_input": "0.55000000",
+        "cost_output": "2.19000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "sophosympatheia/rogue-rose-103b-v0.2:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "minimax/minimax-01",
+        "cost_input": "0.20000000",
+        "cost_output": "1.10000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/codestral-2501",
+        "cost_input": "0.30000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/phi-4",
+        "cost_input": "0.07000000",
+        "cost_output": "0.14000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "sao10k/l3.1-70b-hanami-x1",
+        "cost_input": "3.00000000",
+        "cost_output": "3.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "deepseek/deepseek-chat",
+        "cost_input": "0.14000000",
+        "cost_output": "0.28000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qvq-72b-preview",
+        "cost_input": "0.25000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-2.0-flash-thinking-exp-1219:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "sao10k/l3.3-euryale-70b",
+        "cost_input": "0.70000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/o1",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "eva-unit-01/eva-llama-3.33-70b",
+        "cost_input": "4.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "x-ai/grok-2-vision-1212",
+        "cost_input": "2.00000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "x-ai/grok-2-1212",
+        "cost_input": "2.00000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command-r7b-12-2024",
+        "cost_input": "0.03750000",
+        "cost_output": "0.15000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-2.0-flash-exp:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-exp-1206:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.3-70b-instruct",
+        "cost_input": "0.12000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "amazon/nova-lite-v1",
+        "cost_input": "0.06000000",
+        "cost_output": "0.24000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "amazon/nova-micro-v1",
+        "cost_input": "0.03500000",
+        "cost_output": "0.14000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "amazon/nova-pro-v1",
+        "cost_input": "0.80000000",
+        "cost_output": "3.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwq-32b-preview",
+        "cost_input": "0.12000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-exp-1121:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/learnlm-1.5-pro-experimental:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "eva-unit-01/eva-qwen-2.5-72b",
+        "cost_input": "4.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4o-2024-11-20",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-large-2411",
+        "cost_input": "2.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-large-2407",
+        "cost_input": "2.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/pixtral-large-2411",
+        "cost_input": "2.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "x-ai/grok-vision-beta",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-exp-1114:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "infermatic/mn-inferor-12b",
+        "cost_input": "0.25000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2.5-coder-32b-instruct",
+        "cost_input": "0.07000000",
+        "cost_output": "0.16000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "raifle/sorcererlm-8x22b",
+        "cost_input": "4.50000000",
+        "cost_output": "4.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "eva-unit-01/eva-qwen-2.5-32b",
+        "cost_input": "2.60000000",
+        "cost_output": "3.40000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "thedrummer/unslopnemo-12b",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-haiku-20241022:beta",
+        "cost_input": "0.80000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-haiku-20241022",
+        "cost_input": "0.80000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-haiku:beta",
+        "cost_input": "0.80000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-haiku",
+        "cost_input": "0.80000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "neversleep/llama-3.1-lumimaid-70b",
+        "cost_input": "3.37500000",
+        "cost_output": "4.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthracite-org/magnum-v4-72b",
+        "cost_input": "1.87500000",
+        "cost_output": "2.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-sonnet:beta",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-sonnet",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "x-ai/grok-beta",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/ministral-8b",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/ministral-3b",
+        "cost_input": "0.04000000",
+        "cost_output": "0.04000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2.5-7b-instruct",
+        "cost_input": "0.02500000",
+        "cost_output": "0.05000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "nvidia/llama-3.1-nemotron-70b-instruct",
+        "cost_input": "0.12000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "inflection/inflection-3-pi",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "inflection/inflection-3-productivity",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-flash-1.5-8b",
+        "cost_input": "0.03750000",
+        "cost_output": "0.15000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthracite-org/magnum-v2-72b",
+        "cost_input": "3.00000000",
+        "cost_output": "3.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "liquid/lfm-40b",
+        "cost_input": "0.15000000",
+        "cost_output": "0.15000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "thedrummer/rocinante-12b",
+        "cost_input": "0.25000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-3b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-3b-instruct",
+        "cost_input": "0.01500000",
+        "cost_output": "0.02500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-1b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-1b-instruct",
+        "cost_input": "0.01000000",
+        "cost_output": "0.01000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-90b-vision-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-90b-vision-instruct",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-11b-vision-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.2-11b-vision-instruct",
+        "cost_input": "0.05500000",
+        "cost_output": "0.05500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2.5-72b-instruct",
+        "cost_input": "0.23000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2-vl-72b-instruct",
+        "cost_input": "0.40000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "neversleep/llama-3.1-lumimaid-8b",
+        "cost_input": "0.18750000",
+        "cost_output": "1.12500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/o1-mini-2024-09-12",
+        "cost_input": "3.00000000",
+        "cost_output": "12.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/o1-preview",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/o1-preview-2024-09-12",
+        "cost_input": "15.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/o1-mini",
+        "cost_input": "3.00000000",
+        "cost_output": "12.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/pixtral-12b",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command-r-08-2024",
+        "cost_input": "0.14250000",
+        "cost_output": "0.57000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command-r-plus-08-2024",
+        "cost_input": "2.37500000",
+        "cost_output": "9.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2-vl-7b-instruct",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-flash-1.5-exp",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "sao10k/l3.1-euryale-70b",
+        "cost_input": "0.70000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-flash-1.5-8b-exp",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "ai21/jamba-1-5-large",
+        "cost_input": "2.00000000",
+        "cost_output": "8.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "ai21/jamba-1-5-mini",
+        "cost_input": "0.20000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/phi-3.5-mini-128k-instruct",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "nousresearch/hermes-3-llama-3.1-70b",
+        "cost_input": "0.12000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "nousresearch/hermes-3-llama-3.1-405b",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3.1-sonar-huge-128k-online",
+        "cost_input": "5.00000000",
+        "cost_output": "5.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/chatgpt-4o-latest",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "sao10k/l3-lunaris-8b",
+        "cost_input": "0.03000000",
+        "cost_output": "0.06000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "aetherwiing/mn-starcannon-12b",
+        "cost_input": "0.80000000",
+        "cost_output": "1.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4o-2024-08-06",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-405b",
+        "cost_input": "2.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "nothingiisreal/mn-celeste-12b",
+        "cost_input": "0.80000000",
+        "cost_output": "1.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3.1-sonar-small-128k-chat",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-pro-1.5-exp",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3.1-sonar-large-128k-chat",
+        "cost_input": "1.00000000",
+        "cost_output": "1.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3.1-sonar-large-128k-online",
+        "cost_input": "1.00000000",
+        "cost_output": "1.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3.1-sonar-small-128k-online",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-405b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-405b-instruct",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-405b-instruct:nitro",
+        "cost_input": "14.62000000",
+        "cost_output": "14.62000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-8b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-8b-instruct",
+        "cost_input": "0.02000000",
+        "cost_output": "0.05000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-70b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-70b-instruct",
+        "cost_input": "0.12000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3.1-70b-instruct:nitro",
+        "cost_input": "3.25000000",
+        "cost_output": "3.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-nemo",
+        "cost_input": "0.03500000",
+        "cost_output": "0.08000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/codestral-mamba",
+        "cost_input": "0.25000000",
+        "cost_output": "0.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4o-mini",
+        "cost_input": "0.15000000",
+        "cost_output": "0.60000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4o-mini-2024-07-18",
+        "cost_input": "0.15000000",
+        "cost_output": "0.60000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2-7b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2-7b-instruct",
+        "cost_input": "0.05400000",
+        "cost_output": "0.05400000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemma-2-27b-it",
+        "cost_input": "0.27000000",
+        "cost_output": "0.27000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "alpindale/magnum-72b",
+        "cost_input": "1.87500000",
+        "cost_output": "2.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemma-2-9b-it:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemma-2-9b-it",
+        "cost_input": "0.03000000",
+        "cost_output": "0.06000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "01-ai/yi-large",
+        "cost_input": "3.00000000",
+        "cost_output": "3.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "ai21/jamba-instruct",
+        "cost_input": "0.50000000",
+        "cost_output": "0.70000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-sonnet-20240620:beta",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3.5-sonnet-20240620",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "sao10k/l3-euryale-70b",
+        "cost_input": "0.70000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cognitivecomputations/dolphin-mixtral-8x22b",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "qwen/qwen-2-72b-instruct",
+        "cost_input": "0.34000000",
+        "cost_output": "0.39000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-7b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-7b-instruct",
+        "cost_input": "0.03000000",
+        "cost_output": "0.05500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-7b-instruct:nitro",
+        "cost_input": "0.07000000",
+        "cost_output": "0.07000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-7b-instruct-v0.3",
+        "cost_input": "0.03000000",
+        "cost_output": "0.05500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "nousresearch/hermes-2-pro-llama-3-8b",
+        "cost_input": "0.02500000",
+        "cost_output": "0.04000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/phi-3-mini-128k-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/phi-3-mini-128k-instruct",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/phi-3-medium-128k-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/phi-3-medium-128k-instruct",
+        "cost_input": "1.00000000",
+        "cost_output": "1.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "neversleep/llama-3-lumimaid-70b",
+        "cost_input": "3.37500000",
+        "cost_output": "4.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-flash-1.5",
+        "cost_input": "0.07500000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3-sonar-large-32k-chat",
+        "cost_input": "1.00000000",
+        "cost_output": "1.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3-sonar-large-32k-online",
+        "cost_input": "1.00000000",
+        "cost_output": "1.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "deepseek/deepseek-chat-v2.5",
+        "cost_input": "2.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "perplexity/llama-3-sonar-small-32k-chat",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4o-2024-05-13",
+        "cost_input": "5.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-guard-2-8b",
+        "cost_input": "0.18000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4o",
+        "cost_input": "2.50000000",
+        "cost_output": "10.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4o:extended",
+        "cost_input": "6.00000000",
+        "cost_output": "18.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "neversleep/llama-3-lumimaid-8b:extended",
+        "cost_input": "0.18750000",
+        "cost_output": "1.12500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "neversleep/llama-3-lumimaid-8b",
+        "cost_input": "0.18750000",
+        "cost_output": "1.12500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3-8b-instruct:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3-8b-instruct",
+        "cost_input": "0.03000000",
+        "cost_output": "0.06000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3-8b-instruct:extended",
+        "cost_input": "0.18750000",
+        "cost_output": "1.12500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3-8b-instruct:nitro",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3-70b-instruct",
+        "cost_input": "0.23000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-3-70b-instruct:nitro",
+        "cost_input": "0.79200000",
+        "cost_output": "0.79200000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mixtral-8x22b-instruct",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/wizardlm-2-8x22b",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "microsoft/wizardlm-2-7b",
+        "cost_input": "0.07000000",
+        "cost_output": "0.07000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-pro-1.5",
+        "cost_input": "1.25000000",
+        "cost_output": "5.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4-turbo",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command-r-plus",
+        "cost_input": "2.85000000",
+        "cost_output": "14.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command-r-plus-04-2024",
+        "cost_input": "2.85000000",
+        "cost_output": "14.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "databricks/dbrx-instruct",
+        "cost_input": "1.08000000",
+        "cost_output": "1.08000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "sophosympatheia/midnight-rose-70b",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command",
+        "cost_input": "0.95000000",
+        "cost_output": "1.90000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command-r",
+        "cost_input": "0.47500000",
+        "cost_output": "1.42500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3-haiku:beta",
+        "cost_input": "0.25000000",
+        "cost_output": "1.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3-haiku",
+        "cost_input": "0.25000000",
+        "cost_output": "1.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3-opus:beta",
+        "cost_input": "15.00000000",
+        "cost_output": "75.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3-opus",
+        "cost_input": "15.00000000",
+        "cost_output": "75.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3-sonnet:beta",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-3-sonnet",
+        "cost_input": "3.00000000",
+        "cost_output": "15.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cohere/command-r-03-2024",
+        "cost_input": "0.47500000",
+        "cost_output": "1.42500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-large",
+        "cost_input": "2.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-3.5-turbo-0613",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4-turbo-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "nousresearch/nous-hermes-2-mixtral-8x7b-dpo",
+        "cost_input": "0.54000000",
+        "cost_output": "0.54000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-small",
+        "cost_input": "0.20000000",
+        "cost_output": "0.60000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-tiny",
+        "cost_input": "0.25000000",
+        "cost_output": "0.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-medium",
+        "cost_input": "2.75000000",
+        "cost_output": "8.10000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-7b-instruct-v0.2",
+        "cost_input": "0.18000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "cognitivecomputations/dolphin-mixtral-8x7b",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-pro-vision",
+        "cost_input": "0.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/gemini-pro",
+        "cost_input": "0.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mixtral-8x7b",
+        "cost_input": "0.54000000",
+        "cost_output": "0.54000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mixtral-8x7b-instruct",
+        "cost_input": "0.24000000",
+        "cost_output": "0.24000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mixtral-8x7b-instruct:nitro",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openchat/openchat-7b:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openchat/openchat-7b",
+        "cost_input": "0.05500000",
+        "cost_output": "0.05500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "neversleep/noromaid-20b",
+        "cost_input": "1.50000000",
+        "cost_output": "2.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-2:beta",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-2",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-2.1:beta",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-2.1",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "teknium/openhermes-2.5-mistral-7b",
+        "cost_input": "0.17000000",
+        "cost_output": "0.17000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "undi95/toppy-m-7b:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "undi95/toppy-m-7b:nitro",
+        "cost_input": "0.07000000",
+        "cost_output": "0.07000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "undi95/toppy-m-7b",
+        "cost_input": "0.07000000",
+        "cost_output": "0.07000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "alpindale/goliath-120b",
+        "cost_input": "9.37500000",
+        "cost_output": "9.37500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openrouter/auto",
+        "cost_input": "-1000000.00000000",
+        "cost_output": "-1000000.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-3.5-turbo-1106",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4-1106-preview",
+        "cost_input": "10.00000000",
+        "cost_output": "30.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/palm-2-chat-bison-32k",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/palm-2-codechat-bison-32k",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "jondurbin/airoboros-l2-70b",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "xwin-lm/xwin-lm-70b",
+        "cost_input": "3.75000000",
+        "cost_output": "3.75000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-3.5-turbo-instruct",
+        "cost_input": "1.50000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mistralai/mistral-7b-instruct-v0.1",
+        "cost_input": "0.18000000",
+        "cost_output": "0.18000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "pygmalionai/mythalion-13b",
+        "cost_input": "0.80000000",
+        "cost_output": "1.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-3.5-turbo-16k",
+        "cost_input": "3.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4-32k",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4-32k-0314",
+        "cost_input": "60.00000000",
+        "cost_output": "120.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "nousresearch/nous-hermes-llama2-13b",
+        "cost_input": "0.17000000",
+        "cost_output": "0.17000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "mancer/weaver",
+        "cost_input": "1.50000000",
+        "cost_output": "2.25000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "huggingfaceh4/zephyr-7b-beta:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-2.0:beta",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "anthropic/claude-2.0",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "undi95/remm-slerp-l2-13b",
+        "cost_input": "0.80000000",
+        "cost_output": "1.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "undi95/remm-slerp-l2-13b:extended",
+        "cost_input": "1.12500000",
+        "cost_output": "1.12500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/palm-2-chat-bison",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "google/palm-2-codechat-bison",
+        "cost_input": "1.00000000",
+        "cost_output": "2.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "gryphe/mythomax-l2-13b:free",
+        "cost_input": "0.00000000",
+        "cost_output": "0.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "gryphe/mythomax-l2-13b",
+        "cost_input": "0.06500000",
+        "cost_output": "0.06500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "gryphe/mythomax-l2-13b:nitro",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "gryphe/mythomax-l2-13b:extended",
+        "cost_input": "1.12500000",
+        "cost_output": "1.12500000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-2-13b-chat",
+        "cost_input": "0.19800000",
+        "cost_output": "0.19800000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "meta-llama/llama-2-70b-chat",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-3.5-turbo",
+        "cost_input": "0.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-3.5-turbo-0125",
+        "cost_input": "0.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "OpenRouter",
+        "model": "openai/gpt-4-0314",
+        "cost_input": "30.00000000",
+        "cost_output": "60.00000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "llama2-70b-4096",
+        "cost_input": "0.70000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "mixtral-8x7b-32768",
+        "cost_input": "0.24000000",
+        "cost_output": "0.24000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "gemma-7b-it",
+        "cost_input": "0.07000000",
+        "cost_output": "0.07000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "gemma2-9b-it",
+        "cost_input": "0.20000000",
+        "cost_output": "0.20000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "llama3-70b-8192",
+        "cost_input": "0.59000000",
+        "cost_output": "0.79000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "llama3-8b-8192",
+        "cost_input": "0.05000000",
+        "cost_output": "0.08000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "llama3-groq-70b-8192-tool-use-preview",
+        "cost_input": "0.89000000",
+        "cost_output": "0.89000000"
+    },
+    {
+        "provider": "Groq",
+        "model": "llama3-groq-8b-8192-tool-use-preview",
+        "cost_input": "0.19000000",
+        "cost_output": "0.19000000"
+    },
+    {
+        "provider": "Cohere",
+        "model": "cohere/command-r",
+        "cost_input": "0.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "Mistral",
+        "model": "open-mistral-7b",
+        "cost_input": "0.25000000",
+        "cost_output": "0.25000000"
+    },
+    {
+        "provider": "Mistral",
+        "model": "open-mixtral-8x7b",
+        "cost_input": "0.70000000",
+        "cost_output": "0.70000000"
+    },
+    {
+        "provider": "Mistral",
+        "model": "mistral-small-latest",
+        "cost_input": "2.00000000",
+        "cost_output": "6.00000000"
+    },
+    {
+        "provider": "Mistral",
+        "model": "mistral-medium-latest",
+        "cost_input": "2.70000000",
+        "cost_output": "8.10000000"
+    },
+    {
+        "provider": "Mistral",
+        "model": "mistral-large-latest",
+        "cost_input": "8.00000000",
+        "cost_output": "24.00000000"
+    },
+    {
+        "provider": "Mistral",
+        "model": "mistral-embed",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "Qstash",
+        "model": "llama",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "Qstash",
+        "model": "mistral",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "AWS",
+        "model": "meta.llama3-8b-instruct-v1%3A0",
+        "cost_input": "220.00000000",
+        "cost_output": "720.00000000"
+    },
+    {
+        "provider": "DEEPSEEK",
+        "model": "deepseek-chat",
+        "cost_input": "0.01400000",
+        "cost_output": "0.02800000"
+    },
+    {
+        "provider": "AVIAN",
+        "model": "Meta-Llama-3.1-405B-Instruct",
+        "cost_input": "1.50000000",
+        "cost_output": "1.50000000"
+    },
+    {
+        "provider": "AVIAN",
+        "model": "Meta-Llama-3.3-70B-Instruct",
+        "cost_input": "0.45000000",
+        "cost_output": "0.45000000"
+    },
+    {
+        "provider": "AVIAN",
+        "model": "Meta-Llama-3.1-70B-Instruct",
+        "cost_input": "0.45000000",
+        "cost_output": "0.45000000"
+    },
+    {
+        "provider": "AVIAN",
+        "model": "Meta-Llama-3.1-8B-Instruct",
+        "cost_input": "0.10000000",
+        "cost_output": "0.10000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "deepseek/deepseek-r1",
+        "cost_input": "4.00000000",
+        "cost_output": "4.00000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "deepseek/deepseek_v3",
+        "cost_input": "0.89000000",
+        "cost_output": "0.89000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.3-70b-instruct",
+        "cost_input": "0.39000000",
+        "cost_output": "0.39000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "deepseek/deepseek-r1-distill-llama-70b",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.1-8b-instruct",
+        "cost_input": "0.05000000",
+        "cost_output": "0.05000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.1-70b-instruct",
+        "cost_input": "0.34000000",
+        "cost_output": "0.39000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "mistralai/mistral-nemo",
+        "cost_input": "0.17000000",
+        "cost_output": "0.17000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "deepseek/deepseek-r1-distill-qwen-14b",
+        "cost_input": "0.15000000",
+        "cost_output": "0.15000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "deepseek/deepseek-r1-distill-qwen-32b",
+        "cost_input": "0.30000000",
+        "cost_output": "0.30000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "Sao10K/L3-8B-Stheno-v3.2",
+        "cost_input": "0.05000000",
+        "cost_output": "0.05000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "gryphe/mythomax-l2-13b",
+        "cost_input": "0.09000000",
+        "cost_output": "0.09000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "deepseek/deepseek-r1-distill-llama-8b",
+        "cost_input": "0.04000000",
+        "cost_output": "0.04000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "qwen/qwen-2.5-72b-instruct",
+        "cost_input": "0.38000000",
+        "cost_output": "0.40000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3-8b-instruct",
+        "cost_input": "0.04000000",
+        "cost_output": "0.04000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "microsoft/wizardlm-2-8x22b",
+        "cost_input": "0.62000000",
+        "cost_output": "0.62000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "google/gemma-2-9b-it",
+        "cost_input": "0.08000000",
+        "cost_output": "0.08000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "mistralai/mistral-7b-instruct",
+        "cost_input": "0.05900000",
+        "cost_output": "0.05900000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3-70b-instruct",
+        "cost_input": "0.51000000",
+        "cost_output": "0.74000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "openchat/openchat-7b",
+        "cost_input": "0.06000000",
+        "cost_output": "0.06000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "nousresearch/hermes-2-pro-llama-3-8b",
+        "cost_input": "0.14000000",
+        "cost_output": "0.14000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "sao10k/l3-70b-euryale-v2.1",
+        "cost_input": "1.48000000",
+        "cost_output": "1.48000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "cognitivecomputations/dolphin-mixtral-8x22b",
+        "cost_input": "0.90000000",
+        "cost_output": "0.90000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "jondurbin/airoboros-l2-70b",
+        "cost_input": "0.50000000",
+        "cost_output": "0.50000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "nousresearch/nous-hermes-llama2-13b",
+        "cost_input": "0.17000000",
+        "cost_output": "0.17000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "teknium/openhermes-2.5-mistral-7b",
+        "cost_input": "0.17000000",
+        "cost_output": "0.17000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "sophosympatheia/midnight-rose-70b",
+        "cost_input": "0.80000000",
+        "cost_output": "0.80000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.1-8b-instruct-max",
+        "cost_input": "0.05000000",
+        "cost_output": "0.05000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "sao10k/l3-8b-lunaris",
+        "cost_input": "0.05000000",
+        "cost_output": "0.05000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "qwen/qwen-2-vl-72b-instruct",
+        "cost_input": "0.45000000",
+        "cost_output": "0.45000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.2-1b-instruct",
+        "cost_input": "0.02000000",
+        "cost_output": "0.02000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.2-11b-vision-instruct",
+        "cost_input": "0.06000000",
+        "cost_output": "0.06000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.2-3b-instruct",
+        "cost_input": "0.03000000",
+        "cost_output": "0.05000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "meta-llama/llama-3.1-8b-instruct-bf16",
+        "cost_input": "0.06000000",
+        "cost_output": "0.06000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "sao10k/l31-70b-euryale-v2.2",
+        "cost_input": "1.48000000",
+        "cost_output": "1.48000000"
+    },
+    {
+        "provider": "NOVITA",
+        "model": "qwen/qwen-2-7b-instruct",
+        "cost_input": "0.05400000",
+        "cost_output": "0.05400000"
+    }
+]
